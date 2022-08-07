@@ -1,5 +1,5 @@
 var listReferencesJobs =
-[{
+  [{
     "id": 1,
     "office": "Ajudante geral",
     "expiration_date": "1/16/2021",
@@ -60,6 +60,6 @@ var listReferencesJobs =
     "status": false,
     "description": "Transfer Femoral Nerve to Femoral Nerve, Open Approach"
   }
-]
+  ]
 
 module.exports = listReferencesJobs;
