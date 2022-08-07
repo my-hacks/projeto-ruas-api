@@ -4,61 +4,70 @@ var listReferencesJobs =
     "office": "Ajudante geral",
     "expiration_date": "1/16/2021",
     "status": false,
-    "description": "Release Right External Jugular Vein, Open Approach"
+    "description": "Trabalho em ambientes para limpeza",
+    "company": 'Carrefour'
   }, {
     "id": 2,
     "office": "Auxiliar de cozinha",
     "expiration_date": "2/17/2022",
     "status": false,
-    "description": "Drainage of Left Lower Arm and Wrist Muscle, Perc Approach"
+    "description": "Auxiliar chefe de cozinha",
+    "company": 'Carrefour'
   }, {
     "id": 3,
     "office": "Office boy",
     "expiration_date": "3/14/2022",
     "status": false,
-    "description": "Destruction of Pharynx, Via Natural or Artificial Opening"
+    "description": "Entrega de documentos e analise documental escrituária",
+    "company": 'Carrefour'
   }, {
     "id": 4,
     "office": "Ajudante de pedreiro",
     "expiration_date": "4/3/2021",
     "status": false,
-    "description": "Restriction of R Fem Art with Intralum Dev, Perc Approach"
+    "description": "Auxílio aos pedreiros e mestres de obra em geral",
+    "company": 'Queiroz Galvão'
   }, {
     "id": 5,
     "office": "Auxiliar de amoxerifado",
     "expiration_date": "5/25/2021",
     "status": true,
-    "description": "Destruction of Urethra, Open Approach"
+    "description": "Entrega de documentos e analise documental escrituária",
+    "company": 'Queiroz Galvão'
   }, {
     "id": 6,
     "office": "Servente de pedreiro",
     "expiration_date": "06/23/2021",
     "status": true,
-    "description": "Dilate R Post Tib Art, Bifurc, w 3 Drug-elut, Open"
+    "description": "Auxílio aos pedreiros e mestres de obra em geral",
+    "company": 'Odebretch'
   }, {
     "id": 7,
     "office": "Pedreiro",
     "expiration_date": "07/26/2021",
     "status": true,
-    "description": "Occlusion L Sperm Cord w Intralum Dev, Perc Endo"
+    "description": "Refomas, Ampliações e Manutenções Prediais. Manutenção preventiva e corretiva",
   }, {
     "id": 8,
     "office": "Jardineiro",
     "expiration_date": "08/25/2021",
     "status": false,
-    "description": "Occlusion of Face Artery, Percutaneous Endoscopic Approach"
+    "description": "Realiza implantação, criação e manutenção de jardins",
+    "company": 'Odebretch'
   }, {
     "id": 9,
     "office": "Porteiro",
     "expiration_date": "09/18/2022",
     "status": true,
-    "description": "Dilate Celiac Art, Bifurc, w 3 Intralum Dev, Perc"
+    "description": "Atendimento ao publico, controlar a entrada e saída de pessoas",
+    "company": 'Extra Hipermercados'
   }, {
     "id": 10,
     "office": "Auxiliar de produção",
     "expiration_date": "10/1/2022",
     "status": false,
-    "description": "Transfer Femoral Nerve to Femoral Nerve, Open Approach"
+    "description": "Atuar nos processos de produção de montagem, solda, usinagem e pintura",
+    "company": 'Extra Hipermercados'
   }
   ]
 
