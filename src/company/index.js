@@ -1,6 +1,7 @@
 const express = require('express');
 const routes = express.Router();
 const companies = require('./company');
+const listMyEmployees = require('./myEmployees');
 
 routes.get('/', function(req, res){
     res.send(companies);
@@ -27,6 +28,19 @@ routes.get('/listJobs', (req, res) => {
     } else {
         res.send({
             message: 'Não há vagas cadastradas'
+        })
+    }
+})
+
+routes.get('/listMyEmployees', (req, res) => {
+    if(listMyEmployees.length > 0){
+        res.send({
+            message: "Lista de funcionários registrados na empresa: ",
+            data: listMyEmployees
+        })
+    }else{
+        res.send({
+            message : 'Não existem nenhum funciário resgistrado na empresa'
         })
     }
 })
